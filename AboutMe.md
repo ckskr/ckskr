@@ -1,5 +1,11 @@
-#Introduction
+# Introduction
 
-I'm Claudia from Munich
+I'm **Claudia** from Munich
 
-My favorite food is ice-cream
+## What I like 
+* mountains
+* water
+* creativity
+* sunsets
+
+My LinkedIn profile: 
