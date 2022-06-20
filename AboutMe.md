@@ -8,4 +8,4 @@ I'm **Claudia** from Munich
 * creativity
 * sunsets
 
-My LinkedIn profile: 
+My [LinkedIn](https://www.linkedin.com/in/claudia-kisker-93a628130/) profile 
